@@ -1,0 +1,11 @@
+{
+  "name": "AgriVision AI",
+  "description": "Enterprise AI-Powered Smart Crop Recommendation & Digital Agriculture Platform",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
